@@ -1,5 +1,5 @@
 # Sql_odev2
-www.javapatikasi.com
+www.patika.dev
 
 ### Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
